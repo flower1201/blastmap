@@ -1,0 +1,13 @@
+node_modules/
+dist/
+blastmap-out/
+*.tgz
+.DS_Store
+coverage/
+*.log
+.env
+.env.*
+!.env.example
+.turbo/
+.cache/
+*.tsbuildinfo
